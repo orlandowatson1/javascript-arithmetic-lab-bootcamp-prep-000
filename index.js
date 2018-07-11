@@ -26,7 +26,7 @@ function dec(a){
   number = a - 1;
   return number;
 }
-function makeInt(a){
-  parseInt ('a',b)
-  return parseInt;
+function parseInt(a){
+  number = ('a',b)
+  return number;
 }
