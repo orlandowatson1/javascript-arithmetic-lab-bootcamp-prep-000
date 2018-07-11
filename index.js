@@ -22,7 +22,7 @@ function inc(a){
   number = a + 1; 
   return number;
 }
-function inc(b){
-  number = b - 2;
+function dec(a){
+  number = a - 1;
   return number;
 }
