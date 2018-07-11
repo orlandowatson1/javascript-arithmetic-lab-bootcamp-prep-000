@@ -1,3 +1,3 @@
 var a = 10
 var b = 2
-add(a+b)
+add(10+2)
