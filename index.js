@@ -23,6 +23,6 @@ function inc(a){
   return number;
 }
 function inc(b){
-  number = b - 1;
+  number = b - 2;
   return number;
 }
