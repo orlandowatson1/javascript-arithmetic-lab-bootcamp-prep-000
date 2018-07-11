@@ -1,4 +1,5 @@
-var a, b
-var a = 10
-var b = 2
-add(a+b)
+var number;
+function add(a,b) {
+  number = a+b;
+  return number;
+}
